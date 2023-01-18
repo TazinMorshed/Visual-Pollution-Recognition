@@ -1,5 +1,6 @@
-remote_theme: minimal-misakes@master
-plugins: - jekyll-remote-theme
+remote_theme: daviddarnes/alembic@main
+plugins:
+  - jekyll-remote-theme
 
 title: Visual Pollution Recognition
 description: An image classification API that can classify 10 different types of visual pollutants.
