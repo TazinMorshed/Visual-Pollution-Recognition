@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Visual Pollution Recognizer
 layour: page
 ---
 
