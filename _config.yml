@@ -2,6 +2,13 @@ remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-remote-theme
 
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
+
 title: Visual Pollution Recognition
 description: An image classification API that can classify 10 different types of visual pollutants.
 
