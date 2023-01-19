@@ -38,7 +38,7 @@ Details can be found in `notebooks/data_prep.ipynb`
 # Model Deployment
 
 I deployed to model to HuggingFace Spaces Gradio App. The implementation can be found in `deployment` folder or [here](https://huggingface.co/spaces/TazinMorshed/visual-pollution-recognition). <br/>
-<img src = "deployment/gradio-app.png" width="700" height="450">
+<img src = "deployment/gradio-app.png" width="600" height="450">
 
 # API integration with GitHub Pages
 
